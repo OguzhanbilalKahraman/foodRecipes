@@ -1,0 +1,10 @@
+C:\Users\oguzh\Desktop\Windows Form APP\yemekTarifi\yemekTarifi\bin\Debug\yemekTarifi.exe.config
+C:\Users\oguzh\Desktop\Windows Form APP\yemekTarifi\yemekTarifi\bin\Debug\yemekTarifi.exe
+C:\Users\oguzh\Desktop\Windows Form APP\yemekTarifi\yemekTarifi\bin\Debug\yemekTarifi.pdb
+C:\Users\oguzh\Desktop\Windows Form APP\yemekTarifi\yemekTarifi\obj\Debug\yemekTarifi.csprojAssemblyReference.cache
+C:\Users\oguzh\Desktop\Windows Form APP\yemekTarifi\yemekTarifi\obj\Debug\yemekTarifi.Form1.resources
+C:\Users\oguzh\Desktop\Windows Form APP\yemekTarifi\yemekTarifi\obj\Debug\yemekTarifi.Properties.Resources.resources
+C:\Users\oguzh\Desktop\Windows Form APP\yemekTarifi\yemekTarifi\obj\Debug\yemekTarifi.csproj.GenerateResource.cache
+C:\Users\oguzh\Desktop\Windows Form APP\yemekTarifi\yemekTarifi\obj\Debug\yemekTarifi.csproj.CoreCompileInputs.cache
+C:\Users\oguzh\Desktop\Windows Form APP\yemekTarifi\yemekTarifi\obj\Debug\yemekTarifi.exe
+C:\Users\oguzh\Desktop\Windows Form APP\yemekTarifi\yemekTarifi\obj\Debug\yemekTarifi.pdb
